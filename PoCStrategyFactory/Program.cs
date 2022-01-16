@@ -1,9 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using PoCStrategyFactory.Business;
 using PoCStrategyFactory.Business.SeedWork;
-using PoCStrategyFactory.Data;
 using System;
-using System.Collections.Generic;
 
 namespace PoCStrategy
 {
